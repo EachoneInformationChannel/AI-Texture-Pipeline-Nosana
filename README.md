@@ -25,9 +25,10 @@ Status: ACTIVE
 Container: nosana/runner-pbr-texture-gen:latest
 Result: Generated Diffuse, Normal, & Roughness Maps
 Storage: Uploaded to Arweave via Irys
+
 📖 Complete Case Study
 Read our full architecture details on HackerNoon:
-[https://hackernoon.com/how-we-built-an-ai-texture-pipeline-for-3d-games-with-nosana-and-arweave?hl=ur-IN](https://hackernoon.com/how-we-built-an-ai-texture-pipeline-for-3d-games-with-nosana-and-arweave?hl=ur-IN)
+https://hackernoon.com/how-we-built-an-ai-texture-pipeline-for-3d-games-with-nosana-and-arweave?hl=ur-IN
 🔄 Pipeline Architecture
 [Unity / 3D Asset] 
        │
@@ -36,5 +37,3 @@ Read our full architecture details on HackerNoon:
        │
        ▼
 [Arweave Storage via Irys]   ──► (Permanent Decentralized Storage)
-
- 
