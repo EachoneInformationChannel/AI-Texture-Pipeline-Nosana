@@ -30,3 +30,13 @@ Storage: Uploaded to Arweave (Irys Tx: Confirmed)
 📖 Complete Case Study
 Read our full architecture design and technical write-up published on HackerNoon:
 https://hackernoon.com/how-we-built-an-ai-texture-pipeline-for-3d-games-with-nosana-and-arweave?hl=ur-IN
+ 🔄 Pipeline Architecture
+
+```text
+[Unity / 3D Asset] 
+       │
+       ▼
+[Nosana GPU Node (RTX 4090)] ──► (Renders 4K PBR Maps)
+       │
+       ▼
+[Arweave Storage via Irys]   ──► (Permanent Decentralized Storage)
