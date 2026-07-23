@@ -50,13 +50,6 @@ Read our full architecture details on HackerNoon:
 
 ---
 
-### 🎬 Quick Video Demo
-[![Watch Short Demo Video](https://img.shields.io/badge/🎬%20Watch%20Demo-YouTube%20Shorts-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/KStdEWLIcEg?si=jh65nk3BOSdaOlyi)
-
-> 📌 **Quick Demo:** Watch the short preview of the pipeline in action above!
-
----
-
 ### 📖 Full Case Study & Documentation
 * **HackerNoon Article:** [How We Built an AI Texture Pipeline for 3D Games With Nosana and Arweave](https://hackernoon.com/how-we-built-an-ai-texture-pipeline-for-3d-games-with-nosana-and-arweave?hl=ur-IN)
 * **Audio Podcast:** [Listen on Transistor.fm](https://share.transistor.fm/s/dd14ad80)
