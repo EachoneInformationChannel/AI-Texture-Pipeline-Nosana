@@ -60,4 +60,4 @@ Read our full architecture details on HackerNoon:
 ### 📖 Full Case Study & Documentation
 * **HackerNoon Article:** [How We Built an AI Texture Pipeline for 3D Games With Nosana and Arweave](https://hackernoon.com/how-we-built-an-ai-texture-pipeline-for-3d-games-with-nosana-and-arweave?hl=ur-IN)
 * **Audio Podcast:** [Listen on Transistor.fm](https://share.transistor.fm/s/dd14ad80)
-* 
+ 
