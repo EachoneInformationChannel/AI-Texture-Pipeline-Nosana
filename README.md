@@ -30,18 +30,6 @@ Read our full architecture details on HackerNoon:
 
 ---
 
-### 🔄 Pipeline Architecture
-
-* **[Unity / 3D Asset]**
-  * ⬇️
-* **[Nosana GPU Node (RTX 4090)]** ──► *(Renders 4K PBR Maps)*
-  * ⬇️
-* **[Arweave Storage via Irys]** ──► *(Permanent Decentralized Storage)*
- 
-[![Watch Short Demo Video](https://img.shields.io/badge/🎬%20Watch%20Demo-YouTube%20Shorts-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/KStdEWLIcEg?si=jh65nk3BOSdaOlyi)
-
-> 📌 **Quick Demo:** Watch the short preview of the pipeline in action above!
-> 
 # AI Texture Pipeline for 3D Games (Nosana x Arweave)
 
 > 🎙️ **OFFICIALLY FEATURED ON HACKERNOON TECH BRIEF PODCAST!**  
@@ -50,7 +38,44 @@ Read our full architecture details on HackerNoon:
 
 ---
 
+### 🎬 Quick Video Demo
+[![Watch Short Demo Video](https://img.shields.io/badge/🎬%20Watch%20Demo-YouTube%20Shorts-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/KStdEWLIcEg?si=jh65nk3BOSdaOlyi)
+
+> 📌 **Quick Demo:** Watch the short preview of the pipeline in action above!
+
+---
+
 ### 📖 Full Case Study & Documentation
 * **HackerNoon Article:** [How We Built an AI Texture Pipeline for 3D Games With Nosana and Arweave](https://hackernoon.com/how-we-built-an-ai-texture-pipeline-for-3d-games-with-nosana-and-arweave?hl=ur-IN)
 * **Audio Podcast:** [Listen on Transistor.fm](https://share.transistor.fm/s/dd14ad80)
- 
+
+---
+
+### ⚡ Nosana Execution Proof
+
+Executing GPU container via `nosana-cli deployment create`:
+
+* **Execution Status:** ACTIVE
+* **Container:** `nosana/runner-pbr-texture-gen:latest`
+* **Result:** Generated Diffuse, Normal, & Roughness Maps (4K PBR)
+* **Storage:** Uploaded to Arweave via Irys
+
+---
+
+### 🔄 Pipeline Architecture
+
+* **[Unity / 3D Asset]**
+  * ⬇️
+* **[Nosana GPU Node (RTX 4090)]** ──> *(Renders 4K PBR Maps)*
+  * ⬇️
+* **[Arweave Storage via Irys]** ──> *(Permanent Decentralized Storage)*
+
+---
+
+### 📊 Performance & Cost Comparison
+
+| Metric | Traditional Cloud (AWS/GCP) | Our Decentralized Stack (Nosana + Arweave) |
+| :--- | :--- | :--- |
+| **GPU Rendering Cost** | ~$1.20 / hour | **~$0.32 / hour (70%+ Savings)** |
+| **Storage Model** | Monthly Rent | **Pay-Once, Store Forever** |
+| **Pipeline** | Manual Export | **Automated Web3 Native** |
