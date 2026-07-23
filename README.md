@@ -1,8 +1,8 @@
-# AI-Texture-Pipeline-Nosana
+ AI-Texture-Pipeline-Nosana
 Eachone Information Channel optimized 3D game pipelines by running AI texture generation on Nosana's GPU network and storing assets on Arweave. Cut cloud compute costs by 70% with fast procedural rendering and immutable asset storage for modern game studios
-# Decentralized AI Texture Pipeline for 3D Games
+ Decentralized AI Texture Pipeline for 3D Games
 
-An end-to-end decentralized solution for generating 4K PBR textures using Nosana GPUs and storing them permanently on Arweave via Irys. Built for high-speed game environments like *Neon Rush 3D*.
+An end-to-end decentralized solution for generating 4K PBR textures using Nosana GPUs and storing them permanently on Arweave via Irys. Built for high-speed game environments like *Neon Rush 3D Endless Speed Challenge*.
 
 ---
 
@@ -27,3 +27,6 @@ Status: ACTIVE
 Container: nosana/runner-pbr-texture:latest
 Result: Generated Diffuse, Normal, & Roughness Maps in 4.2s
 Storage: Uploaded to Arweave (Irys Tx: Confirmed)
+📖 Complete Case Study
+Read our full architecture design and technical write-up published on HackerNoon:
+https://hackernoon.com/how-we-built-an-ai-texture-pipeline-for-3d-games-with-nosana-and-arweave?hl=ur-IN
