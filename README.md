@@ -15,25 +15,26 @@ An end-to-end decentralized solution for generating 4K PBR textures using Nosana
 | Asset Storage | Monthly S3 Storage Fees | Pay-once, Permanent Storage |
 
 ---
-⚡ Nosana Execution Proof
+⚡ **Nosana Execution Proof**
 
-```text
-Executing GPU container via nosana-cli deployment create
+Executing GPU container via `nosana-cli deployment create`
 
-Execution Status
-Status: ACTIVE
-Container: nosana/runner-pbr-texture-gen:latest
-Result: Generated Diffuse, Normal, & Roughness Maps
-Storage: Uploaded to Arweave via Irys
+* **Execution Status:** ACTIVE
+* **Container:** `nosana/runner-pbr-texture-gen:latest`
+* **Result:** Generated Diffuse, Normal, & Roughness Maps
+* **Storage:** Uploaded to Arweave via Irys
 
-📖 Complete Case Study
+📖 **Complete Case Study**
 Read our full architecture details on HackerNoon:
-https://hackernoon.com/how-we-built-an-ai-texture-pipeline-for-3d-games-with-nosana-and-arweave?hl=ur-IN
-🔄 Pipeline Architecture
-[Unity / 3D Asset] 
-       │
-       ▼
-[Nosana GPU Node (RTX 4090)] ──► (Renders 4K PBR Maps)
-       │
-       ▼
-[Arweave Storage via Irys]   ──► (Permanent Decentralized Storage)
+[https://hackernoon.com/how-we-built-an-ai-texture-pipeline-for-3d-games-with-nosana-and-arweave?hl=ur-IN](https://hackernoon.com/how-we-built-an-ai-texture-pipeline-for-3d-games-with-nosana-and-arweave?hl=ur-IN)
+
+---
+
+### 🔄 Pipeline Architecture
+
+* **[Unity / 3D Asset]**
+  * ⬇️
+* **[Nosana GPU Node (RTX 4090)]** ──► *(Renders 4K PBR Maps)*
+  * ⬇️
+* **[Arweave Storage via Irys]** ──► *(Permanent Decentralized Storage)*
+ 
