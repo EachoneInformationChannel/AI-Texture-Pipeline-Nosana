@@ -38,3 +38,7 @@ Read our full architecture details on HackerNoon:
   * ⬇️
 * **[Arweave Storage via Irys]** ──► *(Permanent Decentralized Storage)*
  
+[![Watch Short Demo Video](https://img.shields.io/badge/🎬%20Watch%20Demo-YouTube%20Shorts-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/KStdEWLIcEg?si=jh65nk3BOSdaOlyi)
+
+> 📌 **Quick Demo:** Watch the short preview of the pipeline in action above!
+> 
