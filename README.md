@@ -30,7 +30,8 @@ Storage: Uploaded to Arweave (Irys Tx: Confirmed)
 📖 Complete Case Study
 Read our full architecture design and technical write-up published on HackerNoon:
 https://hackernoon.com/how-we-built-an-ai-texture-pipeline-for-3d-games-with-nosana-and-arweave?hl=ur-IN
- 🔄 Pipeline Architecture
+
+```🔄 Pipeline Architecture
 
 ### 🔄 Pipeline Architecture
 
