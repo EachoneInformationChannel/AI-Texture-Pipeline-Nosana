@@ -104,3 +104,23 @@ Executing GPU container via `nosana-cli deployment create`:
 * **Instant GPU Availability:** Instant access to NVIDIA RTX 4090 nodes for fast 4K procedural texture generation.
 * **Web3 Native Integration:** Direct, seamless asset pipeline with Arweave (via Irys) for permanent decentralized storage.
  
+### ⚡ Quick Start & Reproduction
+
+Run the pipeline on your local machine or Nosana GPU instance:
+
+```bash
+# Clone the repository
+git clone [https://github.com/EachoneInformationChannel/AI-Texture-Pipeline-Nosana.git](https://github.com/EachoneInformationChannel/AI-Texture-Pipeline-Nosana.git)
+
+# Enter project directory
+cd AI-Texture-Pipeline-Nosana
+
+# Install dependencies
+pip install -r requirements.txt
+
+### ⚡ Quick Start & Reproduction
+
+#### Option 1: Run via Nosana Deployment (Recommended)
+1. Deploy the GPU container on Nosana using our official Docker image:
+   ```bash
+   nosana-cli deployment create --container nosana/runner-pbr-texture-gen:latest
