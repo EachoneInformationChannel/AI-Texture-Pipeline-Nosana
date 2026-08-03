@@ -29,6 +29,9 @@ Read our full architecture details on HackerNoon:
 [https://hackernoon.com/how-we-built-an-ai-texture-pipeline-for-3d-games-with-nosana-and-arweave?hl=ur-IN](https://hackernoon.com/how-we-built-an-ai-texture-pipeline-for-3d-games-with-nosana-and-arweave?hl=ur-IN)
 
 ---
+<img width="720" height="1600" alt="2093" src="https://github.com/user-attachments/assets/57cc5745-4e3b-4965-ac5e-a92c8817d96c" />
+<img width="720" height="1600" alt="2083" src="https://github.com/user-attachments/assets/52b072e5-8fa0-4e0d-830e-eb813013b0a1" />
+<img width="720" height="1600" alt="2094" src="https://github.com/user-attachments/assets/65550d3c-68d7-4b7c-8082-749bf9ca6b03" />
 
 # AI Texture Pipeline for 3D Games (Nosana x Arweave)
 
@@ -52,6 +55,7 @@ Read our full architecture details on HackerNoon:
 ---
 
 ### ⚡ Nosana Execution Proof
+**Active Deployment Link:** https://deploy.nosana.com/deployments/2tsRNfgVzByCfUgghmdiarK8sNmbXmjn51z3emtCVc1F
 
 Executing GPU container via `nosana-cli deployment create`:
 
