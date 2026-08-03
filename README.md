@@ -28,7 +28,7 @@ Our AI Texture Pipeline is deployed on **Nosana Decentralized GPU Infrastructure
 - **Active Deployment Link:** https://deploy.nosana.com/deployments/2tsRNfgVzByCfUgghmdiarK8sNmbXmjn51z3emtCVc1F
 
 ### 📸 Active Deployment Proof
-*(Yahan apna uploaded image tag rehne dein jo aapne abhi upload kiya tha)*
+
 
 ---
 
