@@ -125,3 +125,6 @@ pip install -r requirements.txt
 1. Deploy the GPU container on Nosana using our official Docker image:
    ```bash
    nosana-cli deployment create --container nosana/runner-pbr-texture-gen:latest
+
+git clone [https://github.com/EachoneInformationChannel/AI-Texture-Pipeline-Nosana.git](https://github.com/EachoneInformationChannel/AI-Texture-Pipeline-Nosana.git)
+cd AI-Texture-Pipeline-Nosana
