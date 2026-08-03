@@ -118,7 +118,7 @@ cd AI-Texture-Pipeline-Nosana
 # Install dependencies
 pip install -r requirements.txt
 
-### ⚡ Quick Start & Reproduction
+## ⚡ Quick Start & Reproduction
 
 #### Option 1: Run via Nosana Deployment (Recommended)
 1. Deploy the GPU container on Nosana using our official Docker image:
