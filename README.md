@@ -16,6 +16,21 @@ An end-to-end decentralized solution for generating 4K PBR textures using Nosana
 
 ---
 ⚡ **Nosana Execution Proof**
+---
+
+## 🚀 Decentralized Compute Setup (Nosana)
+
+Our AI Texture Pipeline is deployed on **Nosana Decentralized GPU Infrastructure** using an **NVIDIA 4090 GPU**.
+
+- **Deployment Name:** `neon-rush-3d-endless-speed-challenge-texture-pipeline`
+- **Deployment Strategy:** Simple (1 Hour Timeout)
+- **Container Environment:** PyTorch 2.0.0 / Jupyter
+- **Active Deployment Link:** https://deploy.nosana.com/deployments/2tsRNfgVzByCfUgghmdiarK8sNmbXmjn51z3emtCVc1F
+
+### 📸 Active Deployment Proof
+*(Yahan apna uploaded image tag rehne dein jo aapne abhi upload kiya tha)*
+
+---
 
 Executing GPU container via `nosana-cli deployment create`
 
