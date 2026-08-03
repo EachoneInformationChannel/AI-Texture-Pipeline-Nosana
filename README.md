@@ -98,3 +98,9 @@ Executing GPU container via `nosana-cli deployment create`:
 | **GPU Rendering Cost** | ~$1.20 / hour | **~$0.32 / hour (70%+ Savings)** |
 | **Storage Model** | Monthly Rent | **Pay-Once, Store Forever** |
 | **Pipeline** | Manual Export | **Automated Web3 Native** |
+### 💡 Why Nosana? (ROI & Key Advantages)
+
+* **70%+ Cost Savings:** Reduced GPU rendering costs from ~$1.20/hour (AWS/GCP) to **$0.32/hour**.
+* **Instant GPU Availability:** Instant access to NVIDIA RTX 4090 nodes for fast 4K procedural texture generation.
+* **Web3 Native Integration:** Direct, seamless asset pipeline with Arweave (via Irys) for permanent decentralized storage.
+* 
