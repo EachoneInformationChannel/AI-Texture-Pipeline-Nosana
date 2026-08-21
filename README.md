@@ -135,6 +135,14 @@ Our pipeline generates high-fidelity PBR (Physically Based Rendering) texture ma
 - **Web3 Native:** Fully automated pipeline connecting Decentralized Compute (Nosana) with Decentralized Storage (Arweave).
 
 ---
+## 📊 Benchmarks & Hackathon Submission
+
+- **HackerNoon Official Report:** [AI-Texture-Pipeline Scores 60.95 With an Open-Source Web3 Pipeline for 4K Game Textures](https://hackernoon.com/ai-texture-pipeline-scores-6095-with-an-open-source-web3-pipeline-for-4k-game-textures)
+- **Proof of Usefulness Utility Score:** +60.95
+- **Primary Stack:** Nosana GPU Compute Node Execution + Arweave Permanent Decentralized Storage
+- **Target Optimization:** 4K PBR Texture Generation with ~70% Cost Efficiency over standard cloud infrastructure.
+- 
+
 
 ## 📜 License & Open Source
 
