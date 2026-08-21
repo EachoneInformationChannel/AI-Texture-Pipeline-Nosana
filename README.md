@@ -141,7 +141,6 @@ Our pipeline generates high-fidelity PBR (Physically Based Rendering) texture ma
 - **Proof of Usefulness Utility Score:** +60.95
 - **Primary Stack:** Nosana GPU Compute Node Execution + Arweave Permanent Decentralized Storage
 - **Target Optimization:** 4K PBR Texture Generation with ~70% Cost Efficiency over standard cloud infrastructure.
-- 
 
 
 ## 📜 License & Open Source
