@@ -124,7 +124,7 @@ Our pipeline generates high-fidelity PBR (Physically Based Rendering) texture ma
 - **Normal Map:** Precision depth and surface detail mapping for real-time lighting engines (Unity/Unreal).
 - **Roughness Map:** Optimized light reflection channels for realistic physical materials.
 
-> 💡 **Storage Architecture:** All generated texture outputs are instantly pinned onto **Arweave via Irys** to ensure zero data loss and permanent decentralized availability.
+> 💡 **Storage Architecture:** All generated texture outputs are instantly pinned onto **Arweave** to ensure zero data loss and permanent decentralized availability.
 
 ---
 
