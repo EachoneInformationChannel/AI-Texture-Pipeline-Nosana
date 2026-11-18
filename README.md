@@ -1,3 +1,5 @@
+<img width="1349" height="1124" alt="Screenshot 2026-11-18 at 22-59-38 durable_replicated_puppy - Deployment" src="https://github.com/user-attachments/assets/69b2972c-b951-4420-a507-1ecce95f1514" />
+<img width="1349" height="819" alt="Screenshot 2026-11-18 at 22-42-41 durable_replicated_puppy - Deployment" src="https://github.com/user-attachments/assets/7db80a7b-f68d-45dc-8cf6-3e4bc278718b" />
  AI-Texture-Pipeline-Nosana
 Eachone Information Channel optimized 3D game pipelines by running AI texture generation on Nosana's GPU network and storing assets on Arweave. Cut cloud compute costs by 70% with fast procedural rendering and immutable asset storage for modern game studios
  Decentralized AI Texture Pipeline for 3D Games
