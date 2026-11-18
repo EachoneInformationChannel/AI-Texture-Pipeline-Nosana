@@ -142,6 +142,15 @@ Our pipeline generates high-fidelity PBR (Physically Based Rendering) texture ma
 - **Primary Stack:** Nosana GPU Compute Node Execution + Arweave Permanent Decentralized Storage
 - **Target Optimization:** 4K PBR Texture Generation with ~70% Cost Efficiency over standard cloud infrastructure.
 
+## 🚀 Round 2 Live Nosana Deployment Proof
+
+This project has been successfully deployed and verified on the decentralized **Nosana GPU Network** using a live ComfyUI inference pipeline.
+
+* **Nosana Job ID:** `5L2FKP8LWAJbQWEMk5HFT5XqR7yAUnQP7EiwjaQE2frU`
+* **Deployment Reference:** `EDmLSUFM...L7HbeK`
+* **Compute Node:** NVIDIA GeForce RTX 3060 / 3060 Ti
+* **Execution Framework:** ComfyUI (`SD15-comfy` container on Nosana)
+* **Blockchain Verification:** Confirmed on Solana (Solscan)
 
 ## 📜 License & Open Source
 
